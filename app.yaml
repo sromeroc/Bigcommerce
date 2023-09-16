@@ -13,3 +13,5 @@
 # limitations under the License.
 
 runtime: nodejs18
+env: standard
+instant_class: F1
